@@ -1,3 +1,3 @@
 # simple-page
-https://github.com/nmcardle/simple-page
+https://nmcardle.github.io/simple-page/
 Test
